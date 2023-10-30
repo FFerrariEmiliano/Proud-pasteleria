@@ -1,0 +1,32 @@
+[
+    {
+      "title": "Chocolate Cake",
+      "price": "$14",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sedii do eiusmod teme.",
+      "image": "item-img/menu-item-01.jpg"
+    },
+    {
+      "title": "Chocolate Cake",
+      "price": "$14",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sedii do eiusmod teme.",
+      "image": "item-img/menu-item-02.jpg"
+    },
+    {
+      "title": "Chocolate Cake",
+      "price": "$14",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sedii do eiusmod teme.",
+      "image": "item-img/menu-item-03.jpg"
+    },
+    {
+      "title": "Chocolate Cake",
+      "price": "$14",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sedii do eiusmod teme.",
+      "image": "item-img/menu-item-04.jpg"
+    },
+    {
+      "title": "Chocolate Cake",
+      "price": "$14",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sedii do eiusmod teme.",
+      "image": "item-img/menu-item-05.jpg"
+    }
+]
