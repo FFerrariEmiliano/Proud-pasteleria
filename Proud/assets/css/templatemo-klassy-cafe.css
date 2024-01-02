@@ -174,29 +174,21 @@ body {
 .section-heading h6 {
   position: relative;
   font-size: 25px;
-  color: #fff;
-  padding: 5px;
-  display: inline-block;
-  background-color: #a1c5ab;
+  color: #a1c5ab;
   font-weight: 500;
-  letter-spacing: 5px;
+  letter-spacing: 2px;
   text-transform: uppercase;
-  text-align: center;
+  padding-left: 40px;
 }
 
-#catalogo-proud__div{
-  height: 100px;
-  justify-content: center;
-  align-items: center;
-}
-
-#catalogo-proud{
+.section-heading h6:before {
+  width: 30px;
+  height: 1px;
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 8px;
   background-color: #a1c5ab;
-  font-size: 25px;
-  font-family: 'Poppins', sans-serif;
-  padding: 8px;
-  color: #fff;
-  text-wrap: nowrap;
 }
 
 .section-heading h2 {
@@ -208,9 +200,7 @@ body {
   color: #2a2a2a;
 }
 
-.width{
-  width: 100%;
-}
+
 /* 
 ---------------------------------------------
 header
@@ -523,7 +513,7 @@ header
 }
 
 .header-area.header-sticky {
-  min-height: 100px;
+  min-height: 80px;
 }
 
 .header-area .nav {
@@ -874,7 +864,6 @@ ul.slick-dots {
 }
 
 #logo-proud {
-  color: #000;
   font-family:  'Bella Vista';
 }
 
